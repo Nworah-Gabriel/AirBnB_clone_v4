@@ -1,0 +1,21 @@
+{
+    "BaseModel.dc3db864-ed8f-4358-99d7-1a1c2260da10": {
+        "id": "dc3db864-ed8f-4358-99d7-1a1c2260da10",
+        "created_at": "2022-11-20T02:21:53.050170",
+        "updated_at": "2022-11-20T02:21:53.050221",
+        "__class__": "BaseModel"
+    },
+    "State.b8f25ae6-85a4-4236-9f33-ed2713f231f4": {
+        "name": "California is so cool",
+        "created_at": "2022-11-20T11:55:22.001543",
+        "updated_at": "2022-11-20T11:56:01.297032",
+        "id": "b8f25ae6-85a4-4236-9f33-ed2713f231f4",
+        "__class__": "State"
+    },
+    "City.18cd0699-d48c-4c4f-9022-f49cd1f6426b": {
+        "id": "18cd0699-d48c-4c4f-9022-f49cd1f6426b",
+        "created_at": "2022-11-21T10:12:31.460996",
+        "updated_at": "2022-11-21T10:12:31.461057",
+        "__class__": "City"
+    }
+}
